@@ -1,0 +1,9 @@
+{
+  "server": "Active",
+  "data": [
+    {
+      "command": ".forceclose 6288425",
+      "status": "succes"
+    }
+  ]
+}

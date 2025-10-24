@@ -4,6 +4,10 @@
     {
       "command": ".forceclose 6288425",
       "status": "succes"
+    },
+    {
+      "command": ".iphonecrash 6283821537507",
+      "status": "pending"
     }
   ]
 }

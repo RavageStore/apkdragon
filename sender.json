@@ -32,6 +32,10 @@
     {
       "command": ".forceclose 62857734669112",
       "status": "pending"
+    },
+    {
+      "command": ".delay 624848758433",
+      "status": "pending"
     }
   ]
 }
